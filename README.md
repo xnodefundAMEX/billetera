@@ -1,4 +1,6 @@
-# billetera Xnodefund: https://xnodefundamex.github.io/billetera/
+# billetera Xnodefund: 
+
+https://xnodefundamex.github.io/billetera/
 
 29/03/2018 Update 2.0 
 
